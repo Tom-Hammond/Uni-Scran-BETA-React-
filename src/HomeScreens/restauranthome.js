@@ -21,13 +21,13 @@ function RestaurantHome(props) {
   }
 
   function orderHistory() {
-    alert('Create Menu');
+    alert('Order History');
     console.log("Order History clicked");
     
   }
 
   function manageAccount() {
-    alert('Create Menu');
+    alert('Manage Account');
     console.log("Manage Account clicked");
     
   }

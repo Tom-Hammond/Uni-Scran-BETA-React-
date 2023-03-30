@@ -26,6 +26,18 @@
   margin-top: 0;
 }
 
+.shopbutton {
+  padding: 1rem 2rem;
+  margin: 0 1rem;
+  border-radius: 1px;
+  background-color: #7a0000;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 0;
+}
+
 .button:hover {
   background-color: #39cc18;
 }
@@ -75,3 +87,23 @@
 .logout-btn:hover {
   background-color: #512d51;
 }
+
+.shop {
+  padding-top: 10.0rem;
+  padding-bottom: 4.0rem;
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.shop-content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgb(0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+
